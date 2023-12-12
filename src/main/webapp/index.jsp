@@ -67,6 +67,7 @@
 <%--Hero Section Start--%>
 <div class="mx-10 py-12 my-10">
     <h1 class=" text-center font-black text-9xl">Website Content Here.</h1>
+    <h1>I will Update this</h1>
 </div>
 <%--Hero Section End--%>
 
