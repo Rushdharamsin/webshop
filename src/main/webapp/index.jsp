@@ -163,7 +163,7 @@
                 <h5 class="tracking-wide text-gray-100 font-semibold">Newsletter</h5>
                 <p class="text-gray-300 mt-2">Subscribe to our newsletter for the latest updates and exclusive offers.</p>
                 <div class="mt-4 md:flex items-center">
-                    <input type="email" placeholder="Enter Your Email" class="text-gray-800 sm:w-72 w-full sm:mr-5 mr-1 lg:mb-0 mb-4
+                    <input type="email" placeholder="Enter Your Email" class="text-gray-800 sm:w-72 w-full md:w-full sm:mr-5 mr-1 lg:mb-0 mb-4
                  py-2.5 rounded px-2 focus:outline">
                     <button class="bg-green-400 hover:bg-green-500 duration-300 px-5 py-2.5 font-semibold rounded-md text-white md:w-auto w-full">
                         Subscribe
